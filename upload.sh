@@ -1,0 +1,1 @@
+conan upload --all --remote bincrafters Azure-CTest/1.1.0@bincrafters/testing
